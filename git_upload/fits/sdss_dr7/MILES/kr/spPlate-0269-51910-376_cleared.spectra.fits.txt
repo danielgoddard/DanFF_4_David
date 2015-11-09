@@ -1,0 +1,2 @@
+# Light_age / log(Gyrs) [value, +error, -error] light [Z/H] [value, +error,-error],mass age / log(Gyrs) [value, +error, -error],mass [Z/H][value, +error, -errpr], E(B-V), stellar mass [value, +error,-error]
+0.666009310822	0.90143176399	0.430586857653	-0.146676640647	0.02679002602	-0.224736640647	1.04716947309	1.12564362415	0.73327286887	-0.138003307313	0.139543359353	-0.31146997398	0.02	10.3875384012	10.5231697109	10.1684416701
